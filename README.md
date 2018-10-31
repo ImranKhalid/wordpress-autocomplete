@@ -23,9 +23,9 @@ Autocomplete support for WordPress functions.
     Number of Functions  : 2838
 
     License: GNU/GPL
-    
+
     Version: 1.2
-    
+
     Extension URI: https://github.com/burhandodhy/wordpress-autocomplete
 
 
